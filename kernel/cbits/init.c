@@ -1,0 +1,3 @@
+void initRawRts(void)
+{
+}

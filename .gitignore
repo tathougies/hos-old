@@ -1,0 +1,6 @@
+dist/
+toolchain/
+raw-rts/
+manuals/
+install/
+*~
